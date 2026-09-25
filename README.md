@@ -24,4 +24,4 @@ Projeto em JavaScript desenvolvido para praticar a implementação de **Estrutur
 1. Certifica-te de que tens o **Node.js** instalado na tua máquina.
 2. Clona este repositório:
    ```bash
-   git clone https://github.com/MatheussssH/Fintech-JS.git
+   git clone https://github.com/MatheusHenrick04/Fintech-JS.git
